@@ -1,4 +1,4 @@
-'''first = "Mr.X is"
+first = "Mr.X is"
 age = 30
 last = "years old"
 #without using formatting
@@ -11,7 +11,7 @@ print("the source of {} is {}".format(num, num * num))
 #gives 2 decimal num after point
 print("the square of {} is {:.2f}".format(num, num * num))
 #gives 10 spaces
-print("the square of {:10} is {:.2f}".format(num, num * num))'''
+print("the square of {:10} is {:.2f}".format(num, num * num))
 
 #2nd method of formatting
 num = 3.14
